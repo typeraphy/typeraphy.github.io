@@ -1,1 +1,1 @@
-# yeoulis.github.io
+# typeraphy.github.io
