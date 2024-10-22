@@ -1,4 +1,4 @@
-# Go to [typeraphy] page (https://typeraphy.github.io)
+# Go to [typeraphy](https://typeraphy.github.io)
 
 ## To-Do List
 - [x] Set up project
