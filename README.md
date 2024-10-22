@@ -1,1 +1,1 @@
-# typeraphy.github.io
+# [typeraphy](https://typeraphy.github.io/)
