@@ -1,4 +1,5 @@
-# [typeraphy](https://typeraphy.github.io/)
+# [typeraphy]()
+<a href="https://typeraphy.github.io" target="_blank">Go to page</a>
 
 ## To-Do List
 - [x] Set up project
