@@ -6,4 +6,5 @@
 - [x] typescript
 - [x] Add favicon
 - [x] Install Zustand
+- [x] Menu Bar
 
