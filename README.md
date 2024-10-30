@@ -7,4 +7,5 @@
 - [x] Add favicon
 - [x] Install Zustand
 - [x] Menu Bar
+- [x] Options Page
 
